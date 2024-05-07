@@ -1,6 +1,6 @@
 @extends('layouts.default')
 @section('content')
-@include('partials.hero')
+@include('partials.hero2')
     <!-- Start block -->
     <section class="py-8 bg-gray-100">
         <div class="container mx-auto">
