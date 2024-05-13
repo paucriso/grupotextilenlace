@@ -1,17 +1,17 @@
 @extends('layouts.default')
 @section('content')
-@include('partials.hero')
+@include('partials.slideshow')
     <!-- Start block -->
     <section class="py-8 bg-gray-100">
         <div class="container mx-auto">
             <h2 class="max-w-2xl mb-8 text-4xl font-bold leading-none tracking-tight text-center mx-auto text-azul-500">Grupo Textil Enlace: <span class="text-verde-500">Tu Destino para Prendas de Calidad</span></h2>
             <p class="font-light text-gray-500 md:text-lg lg:text-xl text-justify max-w-[90%;] mx-auto mb-16">
-                En Grupo Textil Enlace nos enorgullece ser fabricantes especializados en la confección de una 
-                amplia variedad de prendas. Desde playeras y sudaderas hasta camisas, pantalones, mezclilla y 
-                uniformes industriales, nuestro compromiso es ofrecerte productos de la más alta calidad. 
-                Nos dedicamos a satisfacer tus necesidades de vestimenta con atención al detalle y utilizando 
-                los mejores materiales disponibles en el mercado. Además, estamos siempre innovando y 
-                ampliando nuestra gama de productos para asegurarnos de cubrir todas tus exigencias. 
+                En Grupo Textil Enlace nos enorgullece ser fabricantes especializados en la confección de una
+                amplia variedad de prendas. Desde playeras y sudaderas hasta camisas, pantalones, mezclilla y
+                uniformes industriales, nuestro compromiso es ofrecerte productos de la más alta calidad.
+                Nos dedicamos a satisfacer tus necesidades de vestimenta con atención al detalle y utilizando
+                los mejores materiales disponibles en el mercado. Además, estamos siempre innovando y
+                ampliando nuestra gama de productos para asegurarnos de cubrir todas tus exigencias.
                 ¡Confía en nosotros para obtener las prendas que necesitas para cualquier ocasión!
             </p>
             <div class="flex justify-around uppercase text-azul-500">
@@ -47,8 +47,8 @@
                     class="max-w-2xl mb-4 text-4xl font-bold leading-none tracking-tight text-azul-500">
                     Fabricantes de Mezclilla para uso Industrial</h1>
                 <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque sequi earum tempore 
-                    repellat veniam optio porro illum neque? Dolore aut nostrum nisi, accusantium error 
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque sequi earum tempore
+                    repellat veniam optio porro illum neque? Dolore aut nostrum nisi, accusantium error
                     sequi. Dignissimos voluptatibus voluptates placeat id.
                 </p>
             </div>
@@ -125,9 +125,9 @@
                     class="max-w-2xl mb-4 text-4xl font-bold leading-none tracking-tight text-azul-500">
                     Creación de Indumentaria Profesional</h1>
                 <p class="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl">
-                    Enriquecemos la identidad corporativa de tu empresa mediante soluciones  integrales en 
+                    Enriquecemos la identidad corporativa de tu empresa mediante soluciones  integrales en
                     uniformes laborales, abarcando desde la conceptualización  hasta la entrega personalizada,
-                     garantizando una comunicación  corporativa sólida y coherente en cada detalle. 
+                     garantizando una comunicación  corporativa sólida y coherente en cada detalle.
                 </p>
             </div>
             <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
@@ -204,7 +204,7 @@
                 <h2 class="mt-3 mb-4 text-3xl font-bold tracking-tight text-azul-500 md:text-3xl">
                     Miles de clientes satisfechos confian en nosotros</h2>
                 <p class="font-light text-gray-500 sm:text-xl">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus, quod?</p>
-                
+
             </div>
             <div class="col-span-2 space-y-8 md:grid md:grid-cols-2 md:gap-12 md:space-y-0">
                 <div>
@@ -233,7 +233,7 @@
         </div>
     </section>
     <!-- End block -->
-    
+
     <!-- Start block -->
     <section class="bg-[#f3f4f6] ">
         <div class="max-w-screen-xl px-4 py-8 mx-auto lg:py-24 lg:px-6">
@@ -241,17 +241,17 @@
                 <h2 class="mb-4 text-3xl font-extrabold tracking-tight text-azul-500 ">
                     Diseñamos tus prendas a la medida</h2>
                 <p class="mb-5 font-light text-gray-500 sm:text-xl ">
-                    En <span class="font-bold">Grupo Textil Enlace</span>, creamos prendas a medida de cualquier estilo y tipo. 
+                    En <span class="font-bold">Grupo Textil Enlace</span>, creamos prendas a medida de cualquier estilo y tipo.
                     Como confeccionistas con una sólida experiencia en el ámbito textil, nos dedicamos a materializar tus ideas en piezas únicas y de calidad."</p>
             </div>
             <div>
                 <img class="mx-auto" src="{{asset('storage/images/proceso.png')}}" alt="proceso de compra">
             </div>
-            
+
         </div>
     </section>
     <!-- End block -->
-    
+
     <!-- Start block -->
     <section class="bg-gray-50 ">
         <div class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">

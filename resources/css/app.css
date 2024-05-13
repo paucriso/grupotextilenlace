@@ -1,5 +1,7 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css');
 
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -9,3 +11,27 @@
 .button {
     @apply bg-rojo-500 text-white font-normal tracking-wider py-2 px-4 rounded-xl;
 }
+
+
+
+/*
+    .swiper {
+      width: 100%;
+      height: auto;
+    }
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+      background: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+    } */
