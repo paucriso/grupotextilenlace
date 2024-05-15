@@ -3,17 +3,17 @@
           <ul class="splide__list">
               <li class="splide__slide">
                 <div class="container mx-auto absolute left-0 top-0 right-0 bottom-0 flex flex-col items-start justify-center">
-                  <h2 class="text-4xl text-azul-500 font-bold -mt-20">Grupo Textil Enlace Uniformes</h2>
-                  <p class="text-gray-700 max-w-xl mb-4 mt-2">Diseñamos tu imagen empresarial. Diseño exclusivos a medida de la mejor calidad, hechos 
+                  <h2 class="md:text-2xl lg:text-4xl text-azul-500 font-bold -mt-20 max-w-[45%]">Grupo Textil Enlace Uniformes</h2>
+                  <p class="text-gray-700 mb-4 mt-2 max-w-[45%] sm:text-sm lg:text-base">Diseñamos tu imagen empresarial. Diseño exclusivos a medida de la mejor calidad, hechos
                     con las mejores telas, una amplia gama de colores y al mejor precio.</p>
-                  <a href="#" class="button">CONTÁCTANOS</a>
+                  <a href="#" class="button  max-w-[45%]">CONTÁCTANOS</a>
                 </div>
                 <img src="{{asset('storage/images/slide_1.jpg')}}" alt="">
               </li>
               <li class="splide__slide">
                 <div class="container mx-auto absolute left-0 top-0 right-0 bottom-0 flex flex-col items-start justify-center">
                   <h2 class="text-4xl text-azul-500 font-bold -mt-20">Grupo Textil Enlace Uniformes</h2>
-                  <p class="text-gray-700 max-w-xl mb-4 mt-2">Diseñamos tu imagen empresarial. Diseño exclusivos a medida de la mejor calidad, hechos 
+                  <p class="text-gray-700 max-w-xl mb-4 mt-2">Diseñamos tu imagen empresarial. Diseño exclusivos a medida de la mejor calidad, hechos
                     con las mejores telas, una amplia gama de colores y al mejor precio.</p>
                   <a href="#" class="button">CONTÁCTANOS</a>
                 </div>
@@ -22,7 +22,7 @@
               <li class="splide__slide">
                 <div class="container mx-auto absolute left-0 top-0 right-0 bottom-0 flex flex-col items-start justify-center">
                   <h2 class="text-4xl text-azul-500 font-bold -mt-20">Grupo Textil Enlace Uniformes</h2>
-                  <p class="text-gray-700 max-w-xl mb-4 mt-2">Diseñamos tu imagen empresarial. Diseño exclusivos a medida de la mejor calidad, hechos 
+                  <p class="text-gray-700 max-w-xl mb-4 mt-2">Diseñamos tu imagen empresarial. Diseño exclusivos a medida de la mejor calidad, hechos
                     con las mejores telas, una amplia gama de colores y al mejor precio.</p>
                   <a href="#" class="button">CONTÁCTANOS</a>
                 </div>
@@ -31,7 +31,7 @@
               <li class="splide__slide">
                 <div class="container mx-auto absolute left-0 top-0 right-0 bottom-0 flex flex-col items-start justify-center">
                   <h2 class="text-4xl text-azul-500 font-bold -mt-20">Grupo Textil Enlace Uniformes</h2>
-                  <p class="text-gray-700 max-w-xl mb-4 mt-2">Diseñamos tu imagen empresarial. Diseño exclusivos a medida de la mejor calidad, hechos 
+                  <p class="text-gray-700 max-w-xl mb-4 mt-2">Diseñamos tu imagen empresarial. Diseño exclusivos a medida de la mejor calidad, hechos
                     con las mejores telas, una amplia gama de colores y al mejor precio.</p>
                   <a href="#" class="button">CONTÁCTANOS</a>
                 </div>

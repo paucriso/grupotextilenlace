@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,26 +14,14 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/linkstorage', function () {
+/* Route::get('/linkstorage', function () {
     Artisan::call('storage:link');
-});
+}); */
 
-Route::get('/', function () {
-    return view('pages.index');
-});
+Route::get('/', [PageController::class, 'index'])->name('pages.index');
 
-Route::get('demo2', function () {
-    return view('pages.index2');
-});
+Route::get('nosotros', [PageController::class, 'nosotros'])->name('pages.nosotros');
 
-Route::get('nosotros', function () {
-    return view('pages.nosotros');
-});
+Route::get('productos', [PageController::class, 'productos'])->name('pages.productos');
 
-Route::get('productos', function () {
-    return view('pages.productos');
-});
-
-Route::get('contacto', function () {
-    return view('pages.contacto');
-});
+Route::get('contacto', [PageController::class, 'contacto'])->name(('pages.contacto'));

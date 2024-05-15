@@ -22,5 +22,5 @@
         </div>
     </section>
     <!-- End block -->
-   
+
 @endsection

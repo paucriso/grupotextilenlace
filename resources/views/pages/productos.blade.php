@@ -6,8 +6,8 @@
     <!-- Start block -->
     <section class="py-8 bg-gray-100">
         <div class="container mx-auto">
-            <h2 class="max-w-2xl mb-8 text-4xl font-bold leading-none tracking-tight text-center mx-auto text-azul-500">Grupo Textil Enlace: <span class="text-verde-500">Tu Destino para Prendas de Calidad</span></h2>
-           <div class="grid grid-cols-4">
+            <h2 class="max-w-2xl mb-8 text-4xl font-bold leading-none tracking-tight text-center mx-auto text-azul-500">Algunos de Nuestros <span class="text-verde-500">Productos</span></h2>
+           <div class="grid grid-cols-4 gap-4">
             <div>
                 <a href="{{asset('storage/images/picture_1.jpg')}}" data-lightbox="galeria"><img src="{{asset('storage/images/picture_1.jpg')}}" alt=""></a>
             </div>
@@ -57,6 +57,6 @@
         </div>
     </section>
     <!-- End block -->
-    
+
 
 @endsection

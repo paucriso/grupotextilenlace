@@ -12,26 +12,9 @@
     @apply bg-rojo-500 text-white font-normal tracking-wider py-2 px-4 rounded-xl;
 }
 
+.button:hover {
+    @apply bg-rojo-400;
+}
 
 
-/*
-    .swiper {
-      width: 100%;
-      height: auto;
-    }
 
-    .swiper-slide {
-      text-align: center;
-      font-size: 18px;
-      background: #fff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    .swiper-slide img {
-      display: block;
-      width: 100%;
-      height: auto;
-      object-fit: contain;
-    } */
