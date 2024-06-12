@@ -16,5 +16,8 @@
     @apply bg-rojo-400;
 }
 
+.mobile-menu {
+    height: calc(100vh - 140px);
+}
 
 

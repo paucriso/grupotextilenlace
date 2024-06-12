@@ -65,7 +65,7 @@
         <div class="max-w-screen-xl px-4 py-8 mx-auto space-y-12 lg:space-y-20 lg:py-24 lg:px-6">
             <!-- Row -->
             <div class="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
-                <img class="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex" src="{{asset('storage/images/playeras-variadas.jpg')}}"
+                <img class="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex" src="{{asset('storage/images/playeras-variadas.webp')}}"
                     alt="feature image 2">
                 <div class="text-gray-500 sm:text-lg">
                     <h2 class="mb-4 text-3xl font-bold tracking-tight text-azul-500">Playeras en Variados Diseños y Colores</h2>
@@ -147,7 +147,7 @@
         <div class="max-w-screen-xl px-4 py-8 mx-auto space-y-12 lg:space-y-20 lg:py-24 lg:px-6">
             <!-- Row -->
             <div class="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
-                <img class="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex" src="{{asset('storage/images/camisas-reflejantes.jpg')}}"
+                <img class="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex" src="{{asset('storage/images/camisas-reflejantes.webp')}}"
                     alt="feature image 2">
                 <div class="text-gray-500 sm:text-lg">
                     <h2 class="mb-4 text-3xl font-bold tracking-tight text-azul-500">Diseños de Indumentaria Industrial Personalizada</h2>

@@ -101,8 +101,8 @@ window.RS_MODULES.type = 'compiled';
                                 data-text="w:normal;s:42,31,23,18;l:44,33,25,20;fw:700;a:left,left,left,center;"
                                 data-dim="minh:0,none,none,none;" data-frame_0="x:-50,-37,-28,-17;"
                                 data-frame_1="sp:1000;" data-frame_999="o:0;st:w;"
-                                style="z-index:8;font-family:'Roboto';text-transform:uppercase;">GRUPO TEXTIL ENLACE
-                                UNIFORMES
+                                style="z-index:8;font-family:'Roboto';text-transform:uppercase;">CAMISAS Y BLUSAS A LA
+                                MEDIDA
                             </rs-layer><!--
 
                             --><rs-layer id="slider-2-slide-2-layer-9" data-type="text" data-color="#374151"
