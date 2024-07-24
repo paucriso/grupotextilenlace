@@ -1,15 +1,15 @@
 <header>
     <div class="h-11 bg-[#16b6e7;]">
-        <div class="container mx-auto flex justify-end items-center text-white h-full tracking-widest">
+        <div class="container mx-auto flex justify-center items-center lg:justify-end text-white h-full tracking-widest">
             <span class="mr-2">¡ENVÍANOS UN MENSAJE!</span>
             {{-- <i class="fa-solid fa-phone"></i>
             <span class="ml-2">221 396 0534</span> --}}
             <a href="https://api.whatsapp.com/send?phone=5212213960534&text=Hola%20%C2%A1Quisiera%20m%C3%A1s%20informaci%C3%B3n!" target="_blank"><img class="w-[36px]" src="{{asset('storage/images/icono-whats.png')}}" alt=""></a>
         </div>
     </div>
-    <div class="container mx-auto h-24 flex justify-between items-center">
+    <div class="container px-8 lg:px-0 mx-auto h-24 flex justify-between items-center">
         <div>
-            <a href="{{route('pages.index')}}"><img class="max-w-56" src="{{asset('storage/images/logo_horizontal.jpg')}}" alt="Grupo Textil Enlace"></a>
+            <a href="{{route('pages.index')}}"><img class="max-w-48 lg:max-w-56" src="{{asset('storage/images/logo_horizontal.jpg')}}" alt="Grupo Textil Enlace"></a>
         </div>
         <nav class="hidden lg:block">
             <ul class="flex uppercase font-semibold text-[#555555;]">

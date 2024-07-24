@@ -6,8 +6,8 @@
     <!-- Start block -->
     <section class="py-8 bg-gray-100">
         <div class="container mx-auto">
-            <h2 class="max-w-2xl mb-8 text-4xl font-bold leading-none tracking-tight text-center mx-auto text-azul-500">Algunos de Nuestros <span class="text-verde-500">Productos</span></h2>
-           <div class="grid grid-cols-4 gap-4 text-azul-600 font-semibold">
+            <h2 class="max-w-2xl mb-8 text-2xl lg:text-4xl font-bold leading-none tracking-tight text-center mx-auto text-azul-500">Algunos de Nuestros <span class="text-verde-500">Productos</span></h2>
+           <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 text-azul-600 font-semibold px-8 lg:px-0">
             <div>
                 <a href="{{asset('storage/images/picture_1.jpg')}}" data-lightbox="galeria" data-title="BATA"><img src="{{asset('storage/images/picture_1.jpg')}}" alt=""><p class="text-center">BATA</p></a>
             </div>
