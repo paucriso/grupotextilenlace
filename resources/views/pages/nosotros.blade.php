@@ -1,4 +1,5 @@
 @extends('layouts.default')
+@section('title', 'Uniformes corporativos - Grupo Textil Enlace')
 @section('content')
     <div class="bg-azul-500 text-white w-full h-16 flex justify-center items-center tracking-wider uppercase text-lg font-semibold">
         Quienes Somos

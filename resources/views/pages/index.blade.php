@@ -1,4 +1,5 @@
 @extends('layouts.default')
+@section('title', 'Uniformes corporativos, de trabajo, industriales. Indumentaria a la medida')
 @section('content')
 @include('partials.slider')
     <!-- Start block -->
