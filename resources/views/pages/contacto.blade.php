@@ -17,7 +17,7 @@
             <div class="text-center text-verde-500">
                 {{--                 <i class="fa-solid fa-phone text-2xl"></i>
  --}} <span class="text-xl lg:text-2xl text-azul-500 font-semibold block">ESCRÍBENOS POR WHATSAPP</span>
-                <a class="inline-block" href="https://api.whatsapp.com/send?phone=5212213960534&text=Hola%20%C2%A1Quisiera%20m%C3%A1s%20informaci%C3%B3n!"
+                <a class="inline-block" href="https://api.whatsapp.com/send?phone=5212214408619&text=Hola%20%C2%A1Quisiera%20m%C3%A1s%20informaci%C3%B3n!"
                     target="_blank"><img class="w-[55px] mx-auto" src="{{ asset('storage/images/icono-whats.png') }}"
                         alt="whatsapp"></a>
             </div>
